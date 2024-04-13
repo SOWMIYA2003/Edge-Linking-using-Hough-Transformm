@@ -22,6 +22,10 @@ Using Canny operator from cv2,detect the edges of the image.
 
 Using the HoughLinesP(),detect line co-ordinates for every points in the images.Using For loop,draw the lines on the found co-ordinates.Display the image.
 ### Program :
+```
+SOWMIYA N
+212221230016
+```
 #### Read the original image :
 ```
 import cv2
@@ -83,3 +87,7 @@ cv2.destroyAllWindows()
 
 ### Display the result of Hough transform
 ![output](./a5.png)
+
+### Result :
+
+Thus Python program to detect the lines using Hough Transform is done.
